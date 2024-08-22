@@ -4,7 +4,7 @@
 ![PyPI - Version](https://img.shields.io/pypi/v/pywebinfo?style=flat-square)
 
 
-**PyWebInfo** is a simple and easy-to-use Python package to extract metadata from a web page, ideal for the cards/previews of webpages within web applications.
+**pywebinfo** is a simple and easy-to-use Python package to extract metadata from a web page, ideal for the cards/previews of webpages within web applications.
 
 
 ## Installation
@@ -18,7 +18,7 @@ pip install pywebinfo
 
 ## Usage
 
-### Minimal Example:
+Minimal Example:
 
 ```python
 from pywebinfo import PyWebInfo
