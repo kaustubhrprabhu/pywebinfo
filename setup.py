@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
-VERSION = '1.0.1'
-DESCRIPTION = 'A Python package to simply extract metadata (title, description, image, favicon) of a webpage'
+VERSION = '1.0.2'
+DESCRIPTION = 'A Python module to simply extract metadata (title, description, image, favicon) of a webpage'
 
 with open('README.md') as f:
     LONG_DESCRIPTION = f.read()

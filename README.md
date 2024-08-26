@@ -1,15 +1,16 @@
 # PyWebInfo
 
 ![Static Badge](https://img.shields.io/badge/python-3.10-blue?style=flat-square)
-![PyPI - Version](https://img.shields.io/pypi/v/pywebinfo?style=flat-square)
+![PyPI - Version](https://img.shields.io/pypi/v/pywebinfo?link=https%3A%2F%2Fpypi.org%2Fproject%2Fpywebinfo%2F)
 
 
-**pywebinfo** is a simple and easy-to-use Python package to extract metadata from a web page, ideal for the cards/previews of webpages within web applications.
+
+**pywebinfo** is a simple and easy-to-use Python module to extract metadata from a web page, ideal for the cards/previews of webpages within web applications.
 
 
 ## Installation
 
-Currently pywebinfo supports Python 3.10 and onwards; Python 2 is not supported. To install the current release:
+Currently pywebinfo supports Python 3.10 and onwards; Python 2 is not supported (not recommended). To install the current release:
 
 ```bash
 pip install pywebinfo
